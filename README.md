@@ -2,7 +2,7 @@
 claro
 #--------------------------
 # SCRIPR SSH-PLUS
-# CANAL TELEGRAM: @ALFAINTERNET
+# CANAL TELEGRAM: @aqui_top
 #--------------------------
 
 # - Núcleos
